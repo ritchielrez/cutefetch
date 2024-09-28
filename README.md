@@ -2,7 +2,7 @@
 
 ## Tiny coloured fetch script with cute little animals
 
-> This script works on both Linux and Mac OS systems. Enjoy~ :3
+> This script works on both Linux and Mac systems. Windows support is planned. Enjoy~ :3
 
 A "fork" of [elenapan](https://github.com/elenapan)'s [bunnyfetch](https://github.com/elenapan/dotfiles/blob/master/bin/bunnyfetch) script.
 Uses improvements from [strafe/bunnyfetch](https://github.com/strafe/bunnyfetch/) and adds Mac OS compatibility
