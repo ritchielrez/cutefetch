@@ -11,7 +11,7 @@ Uses improvements from [strafe/bunnyfetch](https://github.com/strafe/bunnyfetch/
 
 ### Install
 
--   Place the fetch script somewhere on your `$PATH` (I use `$HOME/.local/bin/`)
+-   Place the fetch script somewhere on your `$PATH`
 -   Make it executable by running `chmod a+x ./cutefetch` in the directory it is located
 -   It is recommended to use a [NerdFont](https://www.nerdfonts.com/) as your terminal font if the glyphs are not being displayed properly.
 
@@ -77,7 +77,7 @@ _this wonderful idea of randomizing the animal and face was contributed by [West
 
 ### Screenshots
 
-![desktop](https://imgur.com/tX8Fqt4.png)
+![desktop](./Screenshot.png)
 
 ### Links:
 
